@@ -11,7 +11,7 @@ body{
     padding: 0;
 }
 
-nav{
+/* nav{
     font-family: 'Nunito Sans', 'Montserrat';
 }
 
@@ -25,7 +25,10 @@ nav ul{
 }
 nav ul li{
     padding: 0 12px;
-}
+} */
+/* #navbarSupportedContent {
+    padding-left: 1.5rem;
+} */
 .leftSideNavbar{
     display: flex;
     margin-left: 20vw;
